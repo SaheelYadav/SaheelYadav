@@ -1,16 +1,97 @@
-## Hi there 👋
+## Hi 👋, I'm Saheel Yadav
 
-<!--
-**SaheelYadav/SaheelYadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building a real-time AI-powered Transaction Fraud Detection system using machine learning and behavioral anomaly analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I am a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, passionate about building **real-world, production-ready AI systems**. I enjoy working on fraud detection, cybersecurity, NLP, and data-driven solutions, with a strong interest in **Generative AI and intelligent systems**.
+
+---
+
+### 🧠 Areas of Interest
+- Artificial Intelligence & Machine Learning  
+- Transaction Fraud Detection & Anomaly Detection  
+- Generative AI & Agentic AI  
+- NLP & Predictive Analytics  
+- Cloud-based ML Systems  
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**  
+- Python, Java, C, JavaScript  
+
+**Machine Learning & AI**  
+- Scikit-learn, TensorFlow, LightGBM  
+- Anomaly Detection, Ensemble Learning  
+- NLP (TF-IDF, Sentence Transformers)  
+- Explainable AI (SHAP)  
+
+**Web & Full Stack**  
+- React.js, Node.js, Express.js  
+- REST APIs  
+
+**Databases & Cloud**  
+- MongoDB, MySQL  
+- Oracle Cloud Infrastructure (OCI)  
+
+**Tools & Platforms**  
+- Git, GitHub, Jupyter Notebook  
+- VS Code, Linux  
+
+---
+
+### 📌 Featured Projects
+
+#### 🔐 AI-Based Transaction Fraud Detection System *(Ongoing)*
+- Developing a **real-time fraud detection platform** for financial transactions  
+- Implementing **behavioral anomaly detection** using ML models  
+- Designing **risk scoring mechanisms** to flag high-risk transactions  
+- Integrating **Explainable AI (SHAP)** for model interpretability  
+- Building an **interactive monitoring dashboard**  
+
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, LightGBM, SHAP, MongoDB  
+
+---
+
+#### 🛡️ AI-Based Intrusion Detection System (NIDS)
+- Built ML-based intrusion detection using the **NSL-KDD dataset**  
+- Trained **Random Forest, SVM, and Deep Neural Networks**  
+- Improved detection accuracy for binary and multi-class attacks  
+
+**Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Linux  
+
+---
+
+#### 🛒 Smart Cart Predictor (Amazon Hackathon Project)
+- Developed an ensemble ML pipeline using **LightGBM, Ridge, and Random Forest**  
+- Optimized predictions using **SMAPE minimization**  
+- Applied **TF-IDF and Sentence Transformers** for product text analysis  
+
+**Tech Stack:** Python, NLP, Scikit-learn, LightGBM  
+
+---
+
+### 🏅 Certifications
+- Oracle Cloud Data Science Certified Professional (OCI25DSOCP)  
+- Oracle Cloud Generative AI Certified Professional (OCI25GAIOCP)  
+- Oracle AI Foundations Associate  
+
+---
+
+### 🏆 Hackathons & Experience
+- **Zignasa National Hackathon (2025)** – Built a MERN-based solution under real-time constraints  
+- **Deloitte Technology STEM Virtual Experience** – AI strategy, data-driven analysis, and cloud solutions  
+
+---
+
+### 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/saheel-yadav-ai-ml  
+- 💻 GitHub: https://github.com/SaheelYadav  
+- 📧 Email: saheelyadav67@gmail.com  
+
+---
+
+⭐ Focused on building scalable, explainable, and impactful AI systems.
