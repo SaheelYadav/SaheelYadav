@@ -92,7 +92,6 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 - 💻 GitHub: https://github.com/SaheelYadav  
 - 📧 Email: saheelyadav67@gmail.com
 - 🔗 portfolio: https://saheel-yadav-portfolio.vercel.app/
-- 
 
 ---
 
