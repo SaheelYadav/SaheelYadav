@@ -32,12 +32,11 @@
 ---
 
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact&theme=dark)
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SaheelYadav)
+![GitHub Streak](https://streak-stats.demolab.com?user=SaheelYadav&theme=dark)
+
 
 ---
 
