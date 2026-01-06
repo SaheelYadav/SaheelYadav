@@ -2,6 +2,17 @@
 
 🔭 Currently building a real-time AI-powered Transaction Fraud Detection system using machine learning and behavioral anomaly analysis.
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
 ---
 
 ### 🚀 About Me
@@ -90,8 +101,8 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 ### 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/saheel-yadav-ai-ml  
 - 💻 GitHub: https://github.com/SaheelYadav  
-- 📧 Email: saheelyadav67@gmail.com
-- 🔗 portfolio: https://saheel-yadav-portfolio.vercel.app/
+- 📧 Email: saheelyadav67@gmail.com  
+- 🌐 Portfolio: https://saheel-yadav-portfolio.vercel.app/
 
 ---
 
