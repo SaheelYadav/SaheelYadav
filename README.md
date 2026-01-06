@@ -8,7 +8,6 @@
 ![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen)
 ![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Fraud%20Detection-blue)
 ![Open To](https://img.shields.io/badge/Open%20to-Internships%20%7C%20Entry%20Roles-success)
-![Learning](https://img.shields.io/badge/Learning-Generative%20AI-orange)
 
 ---
 
@@ -22,20 +21,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Status
-![Profile Views](https://komarev.com/ghpvc/?username=SaheelYadav&label=Profile%20Views&color=blue&style=flat)
-![Stars](https://img.shields.io/github/stars/SaheelYadav?label=Stars&style=flat)
-
----
-
-### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact&theme=dark)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SaheelYadav&theme=dark)
 
 
 ---
