@@ -15,6 +15,13 @@
 
 ---
 
+### 🏅 Certifications
+![OCI Data Science](https://img.shields.io/badge/Oracle%20Cloud-Data%20Science%20Professional-F80000)
+![OCI GenAI](https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional-F80000)
+![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000)
+
+---
+
 ### 🚀 About Me
 I am a Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**, passionate about building **real-world, production-ready AI systems**. I enjoy working on fraud detection, cybersecurity, NLP, and data-driven solutions, with a strong interest in **Generative AI and intelligent systems**.
 
@@ -67,43 +74,18 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ---
 
-#### 🛡️ AI-Based Intrusion Detection System (NIDS)
-- Built ML-based intrusion detection using the **NSL-KDD dataset**  
-- Trained **Random Forest, SVM, and Deep Neural Networks**  
-- Improved detection accuracy for binary and multi-class attacks  
-
-**Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Linux  
-
----
-
-#### 🛒 Smart Cart Predictor (Amazon Hackathon Project)
-- Developed an ensemble ML pipeline using **LightGBM, Ridge, and Random Forest**  
-- Optimized predictions using **SMAPE minimization**  
-- Applied **TF-IDF and Sentence Transformers** for product text analysis  
-
-**Tech Stack:** Python, NLP, Scikit-learn, LightGBM  
-
----
-
-### 🏅 Certifications
-- Oracle Cloud Data Science Certified Professional (OCI25DSOCP)  
-- Oracle Cloud Generative AI Certified Professional (OCI25GAIOCP)  
-- Oracle AI Foundations Associate  
-
----
-
-### 🏆 Hackathons & Experience
-- **Zignasa National Hackathon (2025)** – Built a MERN-based solution under real-time constraints  
-- **Deloitte Technology STEM Virtual Experience** – AI strategy, data-driven analysis, and cloud solutions  
-
----
-
-### 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/saheel-yadav-ai-ml  
-- 💻 GitHub: https://github.com/SaheelYadav  
-- 📧 Email: saheelyadav67@gmail.com  
-- 🌐 Portfolio: https://saheel-yadav-portfolio.vercel.app/
-
----
-
-⭐ Focused on building scalable, explainable, and impactful AI systems.
+### 🧩 Fraud Detection System Architecture
+```text
+User / Transaction Source
+        ↓
+Data Ingestion Layer
+        ↓
+Feature Engineering & Preprocessing
+        ↓
+ML Models (Isolation Forest / Ensemble Models)
+        ↓
+Risk Scoring Engine
+        ↓
+Explainable AI (SHAP)
+        ↓
+Fraud Alerts & Monitoring Dashboard
