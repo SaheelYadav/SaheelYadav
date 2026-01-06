@@ -2,6 +2,17 @@
 
 🔭 Currently building a real-time AI-powered Transaction Fraud Detection system using machine learning and behavioral anomaly analysis.
 
+---
+
+### 📌 Current Status
+![Status](https://img.shields.io/badge/Status-Actively%20Building-brightgreen)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Fraud%20Detection-blue)
+![Open To](https://img.shields.io/badge/Open%20to-Internships%20%7C%20Entry%20Roles-success)
+![Learning](https://img.shields.io/badge/Learning-Generative%20AI-orange)
+
+---
+
+### 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black)
@@ -11,14 +22,22 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
-### 🏅 Certifications
-![OCI Data Science](https://img.shields.io/badge/Oracle%20Cloud-Data%20Science%20Professional-F80000)
-![OCI GenAI](https://img.shields.io/badge/Oracle%20Cloud-Generative%20AI%20Professional-F80000)
-![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000)
+### 📊 GitHub Status
+![Profile Views](https://komarev.com/ghpvc/?username=SaheelYadav&label=Profile%20Views&color=blue&style=flat)
+![Stars](https://img.shields.io/github/stars/SaheelYadav?label=Stars&style=flat)
+
+---
+
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact)
+
+---
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=SaheelYadav)
 
 ---
 
@@ -36,31 +55,6 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ---
 
-### 🛠️ Technical Skills
-
-**Programming Languages**  
-- Python, Java, C, JavaScript  
-
-**Machine Learning & AI**  
-- Scikit-learn, TensorFlow, LightGBM  
-- Anomaly Detection, Ensemble Learning  
-- NLP (TF-IDF, Sentence Transformers)  
-- Explainable AI (SHAP)  
-
-**Web & Full Stack**  
-- React.js, Node.js, Express.js  
-- REST APIs  
-
-**Databases & Cloud**  
-- MongoDB, MySQL  
-- Oracle Cloud Infrastructure (OCI)  
-
-**Tools & Platforms**  
-- Git, GitHub, Jupyter Notebook  
-- VS Code, Linux  
-
----
-
 ### 📌 Featured Projects
 
 #### 🔐 AI-Based Transaction Fraud Detection System *(Ongoing)*
@@ -74,18 +68,43 @@ I am a Computer Science Engineering student specializing in **Artificial Intelli
 
 ---
 
-### 🧩 Fraud Detection System Architecture
-```text
-User / Transaction Source
-        ↓
-Data Ingestion Layer
-        ↓
-Feature Engineering & Preprocessing
-        ↓
-ML Models (Isolation Forest / Ensemble Models)
-        ↓
-Risk Scoring Engine
-        ↓
-Explainable AI (SHAP)
-        ↓
-Fraud Alerts & Monitoring Dashboard
+#### 🛡️ AI-Based Intrusion Detection System (NIDS)
+- Built ML-based intrusion detection using the **NSL-KDD dataset**  
+- Trained **Random Forest, SVM, and Deep Neural Networks**  
+- Improved detection accuracy for binary and multi-class attacks  
+
+**Tech Stack:** Python, TensorFlow, Scikit-learn, Pandas, Linux  
+
+---
+
+#### 🛒 Smart Cart Predictor (Amazon Hackathon Project)
+- Developed an ensemble ML pipeline using **LightGBM, Ridge, and Random Forest**  
+- Optimized predictions using **SMAPE minimization**  
+- Applied **TF-IDF and Sentence Transformers** for product text analysis  
+
+**Tech Stack:** Python, NLP, Scikit-learn, LightGBM  
+
+---
+
+### 🏅 Certifications
+- Oracle Cloud Data Science Certified Professional (OCI25DSOCP)  
+- Oracle Cloud Generative AI Certified Professional (OCI25GAIOCP)  
+- Oracle AI Foundations Associate  
+
+---
+
+### 🏆 Hackathons & Experience
+- **Zignasa National Hackathon (2025)** – Built a MERN-based solution under real-time constraints  
+- **Deloitte Technology STEM Virtual Experience** – AI strategy, data-driven analysis, and cloud solutions  
+
+---
+
+### 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/saheel-yadav-ai-ml  
+- 💻 GitHub: https://github.com/SaheelYadav  
+- 📧 Email: saheelyadav67@gmail.com  
+- 🌐 Portfolio: https://saheel-yadav-portfolio.vercel.app/
+
+---
+
+⭐ Focused on building scalable, explainable, and impactful AI systems.
