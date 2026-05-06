@@ -53,6 +53,10 @@ Interests:
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-Algorithms-orange?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-blueviolet?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Agentic%20AI-AI%20Agents-black?style=for-the-badge"/>
@@ -62,6 +66,8 @@ Interests:
 <img src="https://img.shields.io/badge/AI%20Automation-Workflows-success?style=for-the-badge"/>
 
 
+
+</p>
 
 </p>
 
