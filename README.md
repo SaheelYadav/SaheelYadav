@@ -12,7 +12,7 @@ Building intelligent, scalable, and real-world AI systems focused on AI automati
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaheelYadav&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/SaheelYadav?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=SaheelYadav&label=Visitors&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/badge/Open%20To-AI%20Internships-success" />
   <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen" />
 </p>
