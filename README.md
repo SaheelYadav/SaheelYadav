@@ -77,6 +77,38 @@ Interests:
 
 ---
 
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,react,nodejs,fastapi,mysql,git,github,linux,vscode" />
+
+</p>
+
+---
+
+# ☁️ Tools & Platforms
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+
+</p>
+
 # 📌 Featured Projects
 
 ## 🔐 AI-Powered Transaction Fraud Detection System ✅
