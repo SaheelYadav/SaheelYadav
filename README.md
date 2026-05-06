@@ -31,7 +31,7 @@
 
 ```yaml
 Name: Saheel Yadav
-Role: AI/ML Engineer
+Role: AI/ML Engineer Enthusiast
 Education: B.Tech CSE (AI & ML)
 Current Focus:
   - MCP (Model Context Protocol)
@@ -41,9 +41,8 @@ Current Focus:
   - Explainable AI
 
 Interests:
-  - Fraud Detection
-  - NLP
-  - Cybersecurity
+  - AI & Machine Learning
+  - Deep Learning
   - AI Systems
   - Intelligent Automation
 ```
@@ -72,7 +71,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,react,nodejs,fastapi,mongodb,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python.java,react,nodejs,fastapi,mysql,git,github,vscode" />
 
 </p>
 
