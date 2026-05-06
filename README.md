@@ -61,7 +61,7 @@ Interests:
 
 <img src="https://img.shields.io/badge/AI%20Automation-Workflows-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Automation%20Testing-QA-important?style=for-the-badge"/>
+
 
 </p>
 
@@ -77,15 +77,7 @@ Interests:
 
 ---
 
-# 🧰 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,react,nodejs,fastapi,mysql,git,github,linux,vscode" />
-
-</p>
-
----
 
 # ☁️ Tools & Platforms
 
