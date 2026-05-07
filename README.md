@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Python+Developer;Prompt+Engineering+Enthusiast;Building+Real-World+AI+Systems;Learning+MCP+%7C+Agentic+AI+%7C+Automations" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Software+Development+Engineer+(SDE);Automation+Developer;Generative+AI+%7C+Agentic+AI;Building+Real-World+AI+Systems" />
 </p>
 
 ---
@@ -31,12 +31,13 @@
 
 ```yaml
 Name: Saheel Yadav
-Role: AI/ML Engineer Enthusiast
+Role: AI/ML Engineer • SDE • Automation Developer
 Education: B.Tech CSE (AI & ML)
+
 Current Focus:
   - MCP (Model Context Protocol)
   - Agentic AI
-  - AI Automations
+  - AI Automation Workflows
   - Generative AI
   - Explainable AI
 
@@ -45,6 +46,7 @@ Interests:
   - Deep Learning
   - AI Systems
   - Intelligent Automation
+  - Problem Solving
 ```
 
 ---
@@ -65,10 +67,6 @@ Interests:
 
 <img src="https://img.shields.io/badge/AI%20Automation-Workflows-success?style=for-the-badge"/>
 
-
-
-</p>
-
 </p>
 
 ---
@@ -77,13 +75,11 @@ Interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,react,nodejs,fastapi,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,java,react,nodejs,fastapi,mysql,git,github,linux,vscode" />
 
 </p>
 
 ---
-
-
 
 # ☁️ Tools & Platforms
 
@@ -103,9 +99,11 @@ Interests:
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow"/>
 
 </p>
+
+---
 
 # 📌 Featured Projects
 
@@ -119,6 +117,9 @@ Interests:
 
 📈 Achieved ensemble ROC-AUC score of **0.94**
 
+🛠️ Tech Stack:  
+Python • Flask • XGBoost • SHAP • MLflow • SQLite • PyTorch Geometric
+
 ---
 
 ## 📈 AI Market Sentinel ✅
@@ -129,6 +130,23 @@ Interests:
 - Technical Indicators
 - Buy/Sell/Hold Recommendations
 
+🛠️ Tech Stack:  
+React • TypeScript • Node.js • Express • SQLite • Gemini AI
+
+---
+
+## 🤖 PromptPrepML ✅
+
+✨ AI-powered ML preprocessing and automation workflow platform featuring:
+- Automated dataset preprocessing
+- Feature engineering pipelines
+- ML workflow optimization
+- Prompt-assisted preprocessing automation
+- Data cleaning and transformation utilities
+
+🛠️ Tech Stack:  
+Python • Pandas • NumPy • scikit-learn • Automation Workflows
+
 ---
 
 ## 🛡️ AI-Based Intrusion Detection System (NIDS) ✅
@@ -137,6 +155,9 @@ Interests:
 - Random Forest
 - SVM
 - Deep Neural Networks
+
+🛠️ Tech Stack:  
+Python • TensorFlow • Scikit-learn • Linux
 
 ---
 
@@ -157,15 +178,37 @@ Interests:
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaheelYadav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SaheelYadav&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaheelYadav&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=SaheelYadav&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
 </p>
 
 ---
 
+# 🏆 GitHub Trophies
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SaheelYadav&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaheelYadav&theme=tokyo-night&hide_border=true&radius=16"/>
+
 </p>
 
 ---
@@ -173,7 +216,9 @@ Interests:
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
