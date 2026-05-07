@@ -218,10 +218,9 @@ Python • TensorFlow • Scikit-learn • Linux
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaheelYadav&theme=tokyo-night&hide_border=true&radius=16"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaheelYadav&theme=tokyo-night&hide_border=true&radius=16&custom_title=Last%206%20Months%20Contribution%20Graph"/>
 
 </p>
-
 ---
 
 # 🐍 Contribution Snake Animation
