@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaheelYadav&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/stars/SaheelYadav?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-AI%20Internships-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To AI-ML%20Internships-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Actively%20Learning-brightgreen?style=for-the-badge" />
 </p>
 
@@ -75,7 +75,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,java,react,nodejs,fastapi,mysql,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,fastapi,mysql,git,github,windsurf,vscode" />
 
 </p>
 
