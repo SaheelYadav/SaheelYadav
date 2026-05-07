@@ -75,7 +75,7 @@ Interests:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,fastapi,mysql,git,github,windsurf,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,fastapi,mysql,git,github,vscode" />
 
 </p>
 
