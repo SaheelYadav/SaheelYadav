@@ -202,6 +202,17 @@ Python • TensorFlow • Scikit-learn • Linux
 </p>
 
 ---
+# 💻 Programming Languages Used
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaheelYadav&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaheelYadav&theme=tokyonight"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaheelYadav&theme=tokyonight"/>
+
+</p>
 
 # 📊 Contribution Activity
 
