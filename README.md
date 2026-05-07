@@ -214,14 +214,6 @@ Python • TensorFlow • Scikit-learn • Linux
 
 </p>
 
-# 📊 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=SaheelYadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
----
 
 # 🐍 Contribution Snake Animation
 
