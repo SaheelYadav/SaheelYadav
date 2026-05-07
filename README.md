@@ -218,7 +218,7 @@ Python • TensorFlow • Scikit-learn • Linux
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaheelYadav&theme=tokyo-night&hide_border=true&radius=16&custom_title=Last%206%20Months%20Contribution%20Graph"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=SaheelYadav&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </p>
 ---
